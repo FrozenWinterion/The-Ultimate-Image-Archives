@@ -8,8 +8,8 @@
 using namespace std; //could be seen as bad practice but i'm pretty new to c++ so give me a break
 
 int main() {
-    const int width = 1920; 
-    const int height = 1080; 
+    const int width = 19920; 
+    const int height = 19920; 
     const unsigned int totalDigits = width * height * 9; //width*height*9 because we need 3 numbers per pixel, and each number is 3 digits long
 
     string input; //inputFile goes here
