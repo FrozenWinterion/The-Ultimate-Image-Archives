@@ -3,8 +3,8 @@ import subprocess
 import tkinter
 
 def generate(inp):
-    width = 1920 #default 1920
-    height = 1080 #default 1080
+    width = 19920 #default 1920
+    height = 19920 #default 1080
 
     #write input to file to be read later
     input = str(inp)
